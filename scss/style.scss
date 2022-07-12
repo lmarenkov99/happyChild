@@ -676,6 +676,12 @@
   }
   &__frame {
     min-height: 754px;
+    img {
+      max-width: 599px;
+      width: 100%;
+      display: block;
+      margin: 85px auto 0 auto;
+    }
   }
 }
 
